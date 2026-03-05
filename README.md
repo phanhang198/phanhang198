@@ -9,8 +9,8 @@ Je viens du domaine de la Finance et suis passionnée par les chiffres et l’au
 
 SQL
 Power BI
-Excel / VBA <br>
-Python
+Excel / VBA 
+Python <br>
 Data Analysis
 Data Cleaning
 Data Visualization
