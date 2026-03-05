@@ -3,6 +3,16 @@ Data Analyst / Business Analyst
 
 👋 About Me
 
-Je viens du domaine de la Finance et suis passionnée par les chiffres et l’automatisation, notamment avec VBA, ce qui m’a naturellement conduit à suivre des cours en Data pour approfondir mes compétences. J’ai acquis 4 ans d’expérience en analyse de données, dont 1 an en tant que Data Analyst à La Banque Postale et 3 ans en tant que Data/Business Analyst chez Allianz Trade. Je m’intéresse particulièrement à la manipulation et à la visualisation de données pour en extraire des insights pertinents, tout en optimisant les processus grâce à l’automatisation et aux outils modernes d’analyse.
+Je viens du domaine de la Finance et suis passionnée par les chiffres et l’automatisation, ce qui m’a naturellement conduit à suivre des cours en Data pour approfondir mes compétences. J’ai acquis 4 ans d’expérience en analyse de données, dont 1 an en tant que Data Analyst à La Banque Postale et 3 ans en tant que Data/Business Analyst chez Allianz Trade. Je m’intéresse particulièrement à la manipulation et à la visualisation de données pour en extraire des insights pertinents, tout en optimisant les processus grâce à l’automatisation et aux outils modernes d’analyse.
+
+## 💻 Compétences
+
+SQL
+Power BI
+Excel / VBA
+Python
+Data Analysis
+Data Cleaning
+Data Visualization
 
 
